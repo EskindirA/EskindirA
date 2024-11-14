@@ -12,4 +12,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eskindir&show_icons=true&locale=en&layout=compact" alt="eskindir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eskindir&" alt="eskindir" /></p>
