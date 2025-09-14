@@ -34,9 +34,9 @@ I’m passionate about building **robust, scalable, and intelligent systems**. O
 ---
 
 ## 📊 GitHub Stats & Visualizations
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EskindirA&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EskindirA&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EskindirA&theme=radical)  
 
 ---
 
