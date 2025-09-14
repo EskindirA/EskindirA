@@ -39,7 +39,3 @@ I’m passionate about building **robust, scalable, and intelligent systems**. O
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EskindirA&theme=radical)  
 
 
----
-
-✨ _“Engineering is not just about solving problems, it’s about designing systems that **anticipate** them.”_
-
