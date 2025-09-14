@@ -38,12 +38,6 @@ I’m passionate about building **robust, scalable, and intelligent systems**. O
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EskindirA&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EskindirA&theme=radical)  
 
----
-
-## 📫 Connect With Me
-- 🌐 [Portfolio/Website](https://yourwebsite.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 🐦 [Twitter/X](https://twitter.com/yourusername)  
 
 ---
 
