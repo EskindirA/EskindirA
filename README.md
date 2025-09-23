@@ -25,17 +25,5 @@ I’m passionate about building **robust, scalable, and intelligent systems**. O
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&logo=openid&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats & Visualizations
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EskindirA&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EskindirA&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EskindirA&theme=radical)  
 
 
